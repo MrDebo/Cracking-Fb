@@ -19,9 +19,9 @@ Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_
   
 <li><code>$ pkg install git</code></li>
 
-<li><code>$ git clone https://github.com/MrDebo/Crack-Fb</code></li>
+<li><code>$ git clone https://github.com/MrDebo/Cracking-Fb</code></li>
 
-<li><code>$ cd Crack-Fb</code></li>
+<li><code>$ cd Cracking-Fb</code></li>
 
 <li><code>$ git pull</code></li>
 
