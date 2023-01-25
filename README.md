@@ -1,4 +1,5 @@
-# Cracking-Fb#### CARA INSTALL SCRIPT:
+# Cracking-Fb#### 
+CARA INSTALL SCRIPT:
 
 Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_118.apk),lalu buka aplikasinya ketikan perintah dibawah ini.
 
@@ -28,4 +29,4 @@ Download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_
 
 <br/>
 
-<img src="https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2022-10-02-20-43-02-875_com.termux.jpg" />
+<img src="https://github.com/MrDebo/Crack-Fb/blob/main/Screenshot_2023-01-25-19-31-14-791_com.termux.jpg" />
